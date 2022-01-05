@@ -16,11 +16,13 @@ ex.
 1 = one 
 
 o = 15
+
 n = 14
+
 e = 5
 
 one = 34
--Passes
+- Passes
 
 1000 = one thousand = 136 
 - Fails
